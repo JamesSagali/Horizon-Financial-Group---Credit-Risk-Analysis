@@ -242,5 +242,3 @@ The following charts are generated inline in the Jupyter notebook and should be 
 | 8 | Bar chart | Highest Risk Segments (Visual Summary) |
 
 ---
-
-*CONFIDENTIAL — For internal use only*
