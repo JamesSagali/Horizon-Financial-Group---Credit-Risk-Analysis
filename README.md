@@ -9,7 +9,8 @@ Analysis of 600+ personal loans issued in 2024–2025 to identify drivers of a ~
 | File | Description |
 |---|---|
 | `horizon_financial_group.ipynb` | Full analysis notebook — all code, charts, and findings |
-| `analysis_report.pdf` | Standalone report for stakeholders and the underwriting team |
+| `analysis_report.md` | Downloadable tandalone report as a markdown file |
+| `analysis_report.pdf` | Downloadable tandalone report for stakeholders and the underwriting team |
 | `data/borrower_profiles.csv` | Borrower demographics, income, credit score, employment |
 | `data/loan_applications.csv` | Loan amount, term, interest rate, repayment status |
 
